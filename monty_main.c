@@ -6,12 +6,12 @@
 char **op_toks = NULL;
 
 /**
- * main - the entry point for Monty Interp
+ * main - entry point
  *
- * @argc: the count of arguments passed to the program
- * @argv: pointer to an array of char pointers to arguments
+ * @argc: arg count
+ * @argv: arg vector
  *
- * Return: (EXIT_SUCCESS) on success (EXIT_FAILURE) on error
+ * Return: EXIT_SUCCESS on success, EXIT_FAILURE on error
  */
 int main(int argc, char **argv)
 {

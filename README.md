@@ -1,4 +1,4 @@
-# :stacks LIFO FIFO stacking and Queueing in C
+# 📥 LIFO FIFO stacking and Queueing in C
 
 This repo represents the group project on **monty bytecodes** demonstrating stacking and queueing in C. This was a part of the modules in the ALX SE program.
 
@@ -21,7 +21,7 @@ The code was compiled this way
 	- Any output must be printed on stdout
 	- Any error message must be printed on stderr
 
-## Brief Description of the Monty Language
+## Brief Description of the Monty Language 🐍
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 

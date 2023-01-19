@@ -1,4 +1,4 @@
-# LIFO FIFO stacking and Queueing in C
+# :stacks LIFO FIFO stacking and Queueing in C
 
 This repo represents the group project on **monty bytecodes** demonstrating stacking and queueing in C. This was a part of the modules in the ALX SE program.
 
